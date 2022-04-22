@@ -29,6 +29,11 @@ Method to install any retail pkgs (games, updates, apps) by using IDU OMSK Daemo
 * Done, when the pkgs are installed, simply close ★ OMSK Daemon by hitting Options button > Close Application.
 * **Note!: DO NOT remove/uninstall ★ OMSK Executable. The reason you do need it, it's because it acts like a FPKG placeholder, so that the official full OMSK wouldn't install and cause problems.**
 
+## Some useful places
+
+* <a href="https://orbispatches.com/"> ORBIS Patches </a> Here you will find direct download links to every game update ever. It will show minimum firmware for the update. For big updates, simply grab the delta and all pieces and **DO NOT merge them**. Put all of them in the pkg folder.
+* <a href="https://archive.org/search.php?query=PS4+IDU"> PS4 IDU Disc Dumps </a> Here you will find all demos from the IDU discs with their licenses.
+
 ## Photos
 
 ![](/Images/Daemon.jpg)
