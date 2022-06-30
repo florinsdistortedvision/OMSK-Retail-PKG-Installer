@@ -5,19 +5,19 @@ Method to install any retail pkgs (games, updates, apps) by using IDU OMSK Daemo
 ## How does it work and who is it for?
 
 * This is a way to install any Retail PKG without the need of Debug Settings and/or any jailbreak. **Note!: You still need to own your games and/or have a license for the content you wish to launch.**
-* The way it works is by utilizing IDU mode that is basically built-in every PS4's firmware. IDU (Individual Display Unit) is a mode used by Kiosk/Demo units found on game/electronic stores. Those do not use any special PS4s like TestKits or DevKits, and just use regular retail PS4s and use a IDU disk like <a href="https://ia802802.us.archive.org/1/items/redump-id-62880/PS4%20IDU%20-%202018%20Winter%20Refresh%20-%20GameStop%20%28USA%29%20-%20Disc%20Label.jpg"> this </a>.
+* The way it works is by utilizing IDU mode that is basically built-in every PS4's firmware. IDU (Individual Display Unit) is a mode used by Kiosk/Demo units found on game/electronic stores. Those do not use any special PS4s like TestKits or DevKits, and just use regular retail PS4s and use a IDU disc like <a href="https://ia802802.us.archive.org/1/items/redump-id-62880/PS4%20IDU%20-%202018%20Winter%20Refresh%20-%20GameStop%20%28USA%29%20-%20Disc%20Label.jpg"> this </a>.
 * **Note!: Buying the disc is not needed!**
 * This method can be used on any firmware (>5.00), and **does not need a jailbreak**.
 
 ## How to install and how to use it?
 
-* **Note!: TAKE BACKUP OF SETTINGS AND SAVE DATA BEFORE INSTALLING THIS METHOD, AS IT WILL REPLACE YOUR USER WITH A GENERIC USER1!**
+* **Note!: TAKE BACKUP OF SETTINGS AND SAVE DATA BEFORE INSTALLING THIS METHOD, AS IT WILL REPLACE YOUR USER WITH A GENERIC USER1 AND IT WILL REMOVE EVERYTHING!**
 * Grab a USB drive, and format it as exFAT or FAT32 (FAT32 is not recommended because of 4GB filesize limit).
 * Copy PS4 folder from "PS4 User1 Backup and Restore" to the root of the USB drive.
 * Plug the USB to the PS4 and Navigate to Settings > System > Back Up and Restore.
 * Select Restore PS4. Select OMSK Executable & Daemon restore file.
 * Wait until it restores, after it's finished, you will see 2 new applications on the homescreen (★ OMSK Executable and ★ OMSK Daemon).
-* Done. You can now restore your previously backed up settings and save data.
+* Done. You can now sign in to PSN and it will automatically update User1 to your PSN profile.
 
 ## How to send/install Retail PKGs?
 
